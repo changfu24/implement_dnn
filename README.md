@@ -1,2 +1,4 @@
-# implement_dnn
-implementation from scratch of multi-layer neural network for MNIST, tested mini-batch, momentum, activation functions, etc
+# multi-layer neural newtork implementation in Matlab
+
+implement multi-layer neural networks from scratch in matlab, tested different tricks of trade incluidng mini-batch, momentum, activation functions on MNIST datasets
+
